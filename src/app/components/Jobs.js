@@ -28,7 +28,7 @@ export default function Jobs() {
           salary: '£65,000',
           description: 'Odio mi amet commodo convallis nunc. Tincidunt mauris eu egestas eget in aliquam.',
           postedDate: '29/8/2023',
-          image: '/sectors.png',
+          image: '/sectors.svg',
         },
         {
           id: 2,
@@ -37,7 +37,7 @@ export default function Jobs() {
           salary: '£55,000',
           description: 'Odio mi amet commodo convallis nunc. Tincidunt mauris eu egestas eget in aliquam.',
           postedDate: '3/9/2023',
-          image: '/sectors.png',
+          image: '/sectors.svg',
         },
         {
           id: 3,
@@ -46,7 +46,7 @@ export default function Jobs() {
           salary: '£70,000',
           description: 'Odio mi amet commodo convallis nunc. Tincidunt mauris eu egestas eget in aliquam.',
           postedDate: '10/9/2023',
-          image: '/sectors.png',
+          image: '/sectors.svg',
         },
         {
           id: 4,
@@ -55,7 +55,7 @@ export default function Jobs() {
           salary: '£60,000',
           description: 'Odio mi amet commodo convallis nunc. Tincidunt mauris eu egestas eget in aliquam.',
           postedDate: '12/9/2023',
-          image: '/sectors.png',
+          image: '/sectors.svg',
         }
     ];
 
