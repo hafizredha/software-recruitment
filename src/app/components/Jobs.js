@@ -60,7 +60,7 @@ export default function Jobs() {
     ];
 
     return (
-        <section className="jobs py-5">
+        <section className="position-relative jobs py-5 z-3">
             <div className='container'>
                 <h1 id="job-text" className="text-center fw-bold pb-5">Latest Jobs</h1>
                 <Swiper

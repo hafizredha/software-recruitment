@@ -18,8 +18,8 @@ export default function Hero() {
                 </div>
 
                 <div id="hero-img" className="p-3 p-lg-5 col-lg-6 order-1 order-lg-2 d-flex justify-content-center align-items-center">
-                    <svg className="position-absolute z-1" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg"><g transform="translate(249.3796773063259 221.81353726299483)"><path d="M122.2 -140.1C155.7 -117.5 178.3 -76.5 180.6 -35.9C183 4.7 165.1 44.9 144.3 85.7C123.6 126.5 99.9 168 61.1 193C22.3 218 -31.6 226.5 -67.2 204.8C-102.9 183.1 -120.3 131.3 -141.8 85.8C-163.4 40.4 -189 1.3 -176.1 -24C-163.2 -49.2 -111.7 -60.5 -76 -82.7C-40.2 -104.9 -20.1 -137.9 12.1 -152.4C44.4 -166.9 88.7 -162.7 122.2 -140.1" fill="#FFD95A"></path></g></svg>
-                    <img src="/hero-section-img.png" alt="Hero" className="position-relative z-2 img-fluid"/>
+                    <svg className="position-absolute end-0 z-1" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg"><g transform="translate(249.3796773063259 221.81353726299483)"><path d="M122.2 -140.1C155.7 -117.5 178.3 -76.5 180.6 -35.9C183 4.7 165.1 44.9 144.3 85.7C123.6 126.5 99.9 168 61.1 193C22.3 218 -31.6 226.5 -67.2 204.8C-102.9 183.1 -120.3 131.3 -141.8 85.8C-163.4 40.4 -189 1.3 -176.1 -24C-163.2 -49.2 -111.7 -60.5 -76 -82.7C-40.2 -104.9 -20.1 -137.9 12.1 -152.4C44.4 -166.9 88.7 -162.7 122.2 -140.1" fill="#FFD95A"></path></g></svg>
+                    <img src="/woman.png" alt="Hero" className="position-relative z-2 img-fluid"/>
                 </div>
             </div>
         </div>
