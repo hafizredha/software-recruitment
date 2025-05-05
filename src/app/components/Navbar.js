@@ -7,7 +7,7 @@ export default function HeaderNavbar() {
   return (
     <Navbar variant="dark" expand="xl" sticky='top' className="py-3 z-3 bg-blue z-5">
       <Container>
-        <Navbar.Brand as={Link} href="/">Software Recruitment Co.</Navbar.Brand>
+        <Navbar.Brand as={Link} href="/" className='fw-bold'>Software Recruitment Co.</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbar-nav" />
         <Navbar.Offcanvas
               id="navbar-nav"
