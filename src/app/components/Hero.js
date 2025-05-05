@@ -13,7 +13,7 @@ export default function Hero() {
                     <h1 id="hero-text" className="fw-bold mb-4 text-light">Elevate your <span id="pink-text">career</span></h1>
                     <div className="input-group search-button">
                         <input type="text" className="form-control px-3 py-2 px-md-4 py-md-3 fw-semibold" placeholder="E.g. Networking" />
-                        <button className="org-button border-0 fw-semibold px-3 px-lg-5" type="button">Search jobs</button>
+                        <button className="org-button border-0 fw-semibold px-3 px-lg-5 text-black" type="button">Search jobs</button>
                     </div>
                 </div>
 
